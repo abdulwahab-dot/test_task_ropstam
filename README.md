@@ -1,6 +1,8 @@
 # test_task
 
 Ropstam Test Task
+Issues with Login Api status Validation and checks.
+Excluded the shared services file(use to manage session) because of api responce and model file limitations.
 
 ##
 
